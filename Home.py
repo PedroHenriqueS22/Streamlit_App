@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Adicionar imagem no topo da página
-st.image("./img/capa.png")
+st.image("img/capa.png")
 
 # Adicionando CSS para melhorar o design
 st.markdown(
