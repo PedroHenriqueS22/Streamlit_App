@@ -3,9 +3,10 @@ import streamlit as st
 # Configuração da página
 st.set_page_config(
     page_title="Predição de valor de vendas",
-    page_icon="img/capa.png",
     layout="wide",
 )
+
+st.image('img/Capa.png')
 
 # Adicionando CSS para melhorar o design
 st.markdown(
